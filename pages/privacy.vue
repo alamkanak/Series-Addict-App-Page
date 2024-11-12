@@ -1,6 +1,6 @@
 <template>
   <div class="py-10">
-    <div class="container mx-auto">
+    <div class="container mx-auto px-8">
       <h1 class="text-5xl my-4">Privacy Policy</h1>
       <p>
         Raquib-ul Alam built the Series Addict app as a Freemium app. This

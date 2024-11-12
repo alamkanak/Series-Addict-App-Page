@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto my-10">
+  <div class="container mx-auto my-10 px-8">
     <div class="grid grid-cols-1 md:grid-cols-2">
       <div class="w-full place-content-center mb-30">
         <NuxtImg src="launcher_icon_5_adaptive.png" />
@@ -18,10 +18,11 @@
         <NuxtLink
           to="https://play.google.com/store/apps/details?id=com.alamkanak.seriesaddict"
         >
-          <NuxtImg class="w-56" src="google-play-badge.png" />
+          <NuxtImg
+            src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+            width="250"
+          />
         </NuxtLink>
-
-      
       </div>
       <NuxtImg class="w-full" src="/screen3.png" />
     </div>
